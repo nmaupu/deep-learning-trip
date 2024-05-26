@@ -1,5 +1,5 @@
-from model import LearningModel
-from neuron import Neuron
+from ml.model import LearningModel
+from ml.neuron import Neuron
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
